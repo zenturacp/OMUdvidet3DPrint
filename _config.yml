@@ -6,7 +6,28 @@ title: OM Udvidet 3D Print Kursus
 description: Kursusmateriale til avanceret 3D print hos Orange Makers
 show_downloads: false
 
-theme_settings:
-  header_bg: "#159957"
-  header_bg2: "#155799"
-  section_headings_color: "#159957"
+# Farvetilpasninger
+theme:
+  # Header gradient
+  header:
+    background_color: "#1a1a1a"     # Næsten sort
+    background_gradient: "#2d2d2d"   # Mørkegrå
+  
+  # Tekst farver
+  colors:
+    header: "#ffffff"                # Hvid header tekst
+    section_headings: "#FF6B00"      # Orange overskrifter
+    body_text: "#ffffff"             # Hvid brødtekst
+    links: "#FF9B50"                 # Lysere orange til links
+
+  # Fonte
+  fonts:
+    headers: "Open Sans"
+    body: "Helvetica Neue"
+
+# Tilføj custom CSS
+sass:
+  style: compressed
+
+# Tilføj mørk baggrund til hele siden
+page_color: "#1a1a1a"
