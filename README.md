@@ -2,7 +2,7 @@
 
 Dette repository indeholder agenda og materialer til et udvidet 3D print kursus hos Orange Makers.
 
-## Emner
+## Kursus Indhold
 
 ### 1. Mekanisk Gennemgang
 - Bed og dens betydning
@@ -20,16 +20,16 @@ Dette repository indeholder agenda og materialer til et udvidet 3D print kursus 
 - TPU: Fleksible prints
 - Andre specialmaterialer 
 
-### 2.1. Opbevaring af filament & faldgrupper
+### 2.1 Opbevaring af filament & faldgruber
 - Våd filament
 - Sprød filament
 - Beskidt filament
 
 ### 3. Kalibrering
-- Bed leveling (1. layer calibration)
-  - [Direkte link til guide](https://teachingtechyt.github.io/calibration.html#firstlayer)
-  - ![First Layer](https://teachingtechyt.github.io/img/firstlayer.jpg)
-  - ![Example](https://teachingtechyt.github.io/img/firstlayer2.jpg)
+- Bed Leveling (First Layer Calibration)
+  - [Guide til First Layer Calibration](https://teachingtechyt.github.io/calibration.html#firstlayer)
+  - ![First Layer Kalibrering](https://teachingtechyt.github.io/img/firstlayer.jpg)
+  - ![Eksempel på god first layer](https://teachingtechyt.github.io/img/firstlayer2.jpg)
 - PID Auto Tuning
 - E-steps kalibrering (Er gjort på Prusa men kan være en fejlkilde)
 - Flow kalibrering (Vigtigt hvis man vil sikre tolerancer)
@@ -40,16 +40,18 @@ Dette repository indeholder agenda og materialer til et udvidet 3D print kursus 
 - XYZ Calibration
   - [Califlower](https://vector3d.shop/products/califlower-calibration-tool-mk2)
 
-God kilde til generel kalibrering - [Teaching Tech](https://teachingtechyt.github.io/calibration.html)
+**Anbefalet ressource:** [Teaching Tech Calibration Guide](https://teachingtechyt.github.io/calibration.html) - Omfattende guide til printer kalibrering
 
 ### 4. Fejlfinding
 - Almindelige printproblemer
-- Warping
-- Heatcreep
-- Over extrusion, under extrusion
-- Diagnosticering af fejl
+  - Warping
+  - Heat Creep
+  - Over-/underextrusion
+  - Stringing
+  - Layer shifts
+- Systematisk fejlsøgning
 - Løsningsstrategier
-- Vedligeholdelse og forebyggelse
+- Forebyggende vedligeholdelse
 
 ### 5. Funktionelle Print
 - Slicer optimering
