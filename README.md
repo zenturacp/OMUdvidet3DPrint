@@ -47,10 +47,14 @@ Link til Github Repository [her](https://github.com/zenturacp/OMUdvidet3DPrint)
 ### 4. Fejlfinding
 - Almindelige printproblemer
   - Warping
+    - ![Warping](https://www.simplify3d.com/wp-content/uploads/2019/04/warping-1024x1024-1-1024x1024.jpg)
   - Heat Creep
+    - Typisk fejl på blæser
   - Over-/underextrusion
+    - ![Under Extrusion](https://www.simplify3d.com/wp-content/uploads/2019/04/under-extruding-1024x1024.jpg)
   - Stringing
   - Layer shifts
+    - Motor problemer
 - Systematisk fejlsøgning
 - Løsningsstrategier
 - Forebyggende vedligeholdelse
