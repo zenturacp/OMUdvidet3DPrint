@@ -2,6 +2,8 @@
 
 Dette repository indeholder agenda og materialer til et udvidet 3D print kursus hos Orange Makers.
 
+Du kan Git kilden [her](https://github.com/zenturacp/OMUdvidet3DPrint)
+
 ## Kursus Indhold
 
 ### 1. Mekanisk Gennemgang
